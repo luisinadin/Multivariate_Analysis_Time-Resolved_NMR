@@ -95,20 +95,12 @@ After the analysis, the recovered spectra can be reshaped back into 2D form.
 
 ## Requirements
 
-Python ≥ 3.9
+## Installation
 
-**Main packages:**
+Clone the repository and install the dependencies:
 
-numpy
-
-pandas
-
-matplotlib
-
-scipy
-
-plotly
-
-**For MCR-ALS:**
-
-pymcr
+```bash
+git clone https://github.com/luisinadin/Multivariate_Analysis_Time-Resolved_NMR
+cd <repo>
+pip install -r requirements.txt
+```
